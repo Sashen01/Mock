@@ -1,2 +1,1 @@
-# Mock
-first repo
+first repo on linux
